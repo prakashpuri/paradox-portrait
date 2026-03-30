@@ -1,6 +1,0 @@
-{
-  "prompt": "A vast luminous network of floating spheres in deep space.A vast luminous web of interconnected spheres suspended in deep space. Each sphere glows softly and is connected by threads of light to several neighbours. From any single sphere you focus on, its neighbours are always visibly larger and more densely connected — more threads, brighter glow. This pattern repeats at every node, no matter which one you look at. No sphere ever appears as the most connected when viewed from itself. The composition feels simultaneously centred and off-centre, stable and quietly wrong. Hyper-detailed, surreal, no text, no labels, no numbers, dark background, photorealistic render.",
-  "model": "DreamShaper XL via SeaArt"
-  "paradox": "Friendship Paradox",
-  "visual_logic": "Each sphere’s neighbors appear larger and more connected, so from any viewpoint others seem more central, creating a recursive local-global contradiction."
-}
